@@ -1,0 +1,139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Event List\n"
+"POT-Creation-Date: 2015-09-10 13:41+0200\n"
+"PO-Revision-Date: 2015-09-10 13:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vsel.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: vsel.php:44 vsel.php:56
+msgid "Events"
+msgstr ""
+
+#: vsel.php:45
+msgid "Event"
+msgstr ""
+
+#: vsel.php:46
+msgid "Add New"
+msgstr ""
+
+#: vsel.php:47
+msgid "Add New Event"
+msgstr ""
+
+#: vsel.php:48
+msgid "Edit Event"
+msgstr ""
+
+#: vsel.php:49
+msgid "New Event"
+msgstr ""
+
+#: vsel.php:50
+msgid "View Event"
+msgstr ""
+
+#: vsel.php:51
+msgid "Search Events"
+msgstr ""
+
+#: vsel.php:52
+msgid "No events found"
+msgstr ""
+
+#: vsel.php:53
+msgid "No events found in Trash"
+msgstr ""
+
+#: vsel.php:74
+msgid "Event Info"
+msgstr ""
+
+#: vsel.php:99 vsel.php:155
+msgid "Event Date"
+msgstr ""
+
+#: vsel.php:101 vsel.php:156
+msgid "Event Time"
+msgstr ""
+
+#: vsel.php:103 vsel.php:157
+msgid "Event Location"
+msgstr ""
+
+#: vsel.php:105
+msgid "Event URL"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:47 vsel_shortcode.php:47
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:51 vsel_shortcode.php:51
+#, php-format
+msgid "Time: %s"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:56 vsel_shortcode.php:56
+#, php-format
+msgid "Location: %s"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:61 vsel_shortcode.php:61
+#, php-format
+msgid "More info: %s"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:61 vsel_shortcode.php:61
+msgid "click here"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:76 vsel_shortcode.php:76
+msgid "&laquo; Next Events"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:77 vsel_shortcode.php:77
+msgid "Previous Events &raquo;"
+msgstr ""
+
+#: vsel_past_events_shortcode.php:84
+msgid "There are no past events."
+msgstr ""
+
+#: vsel_shortcode.php:84
+msgid "There are no upcoming events."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Very Simple Event List"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a very simple plugin to display a list of your events. Use shortcode "
+"[vsel] to display your events on a page. For more info please check readme "
+"file."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Guido van der Leest"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.guidovanderleest.nl"
+msgstr ""

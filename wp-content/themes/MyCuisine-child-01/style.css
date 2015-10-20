@@ -1,0 +1,235 @@
+/*
+Theme Name: MyCuisine Child
+Theme URI: 
+Description: Child theme for the MyCuisine theme
+Author: Raja Gupta
+Author URI: 
+Template: MyCuisine
+Version: 3.6
+*/
+
+@import url('../MyCuisine/style.css');
+
+@font-face {
+    font-family: 'danielregular';
+    src: url('fonts/daniel/daniel-webfont.eot');
+    src: url('fonts/daniel/daniel-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/daniel/daniel-webfont.woff') format('woff'),
+         url('fonts/daniel/daniel-webfont.ttf') format('truetype'),
+         url('fonts/daniel/daniel-webfont.svg#danielregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 5px;
+	color: #442502;
+	letter-spacing: -1px;
+	line-height: 2em;
+	font-weight: normal;
+	font-family: 'daniel';
+}
+
+hr {
+	padding-bottom: 0px;
+	border-bottom: 1px solid #e7e7e7;
+	margin: 20px 0px ;
+}
+
+#content-area {
+	background: url(images/content-bg.png);
+}
+
+#page-top {
+	background: url(images/top-bg.png) repeat-x;
+}
+
+#page-top h1.category-title {
+	color: #ffffff;
+	font-size: 36px;
+	font-style: normal;
+	text-transform: none;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+	font-weight: 700;
+}
+
+#menu-bar {
+	background: url(images/menu-bar.png) no-repeat;
+}
+
+#menu-right {
+	background: url(images/menu-bg.png) repeat-x;
+}
+
+#menu-content {
+	background: url(images/menu-bg.png) repeat-x;
+}
+
+ul#top-menu li ul {
+	width: 163px !important;
+	padding: 8px 6px 12px 29px;
+	background: #e7e7e7 url(images/dropdown-bg.png) repeat-y;
+}
+
+body {
+	line-height: 18px;
+	font-family: verdana, lucida, sans-serif;
+	font-size: 12px;
+	color: #442502;
+	text-shadow: 1px 1px 1px #ccc;
+}
+
+.home-block h3.title {
+	color: #442502;
+	font-size: 17px;
+	text-transform: none !important;
+	text-shadow: 1px 1px 1px #ffffff;
+	font-family: 'daniel';
+	font-style: initial;
+	font-weight: bold;
+}
+
+.home-block h4.title a {
+	text-decoration: none;
+	color: #442917;
+	font-size: medium;
+	font-style: initial;
+	font-weight: bolder;
+	font-family:'Goudy Bookletter 1911', Georgia, serif;
+}
+
+.home-block {
+	font-style: italic;
+	color: #442502;
+}
+
+#sidebar h4.widgettitle {
+	font-size: 21px;
+	color: #442502;
+	text-transform: none;
+	font-family: 'daniel';
+	text-shadow: 1px 1px 1px #cccccc;
+	font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 5px;
+	color: #442502;
+	letter-spacing: -1px;
+	line-height: 2em;
+	font-weight: 700;
+	font-family: danielregular;
+}
+
+h4.widgettitle, h2.category_name {
+    color: #442502;
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 12px;
+    text-shadow: 1px 1px 1px #CCCCCC;
+    text-transform: none;
+}
+
+.footer-widget {
+	line-height:10px;
+    border: 1px double #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+    color: #442917;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+.footer-widget {
+    border: 4px none #D2B48C;
+    float: left;
+    margin-bottom: 25px;
+    margin-right: 80px;
+    margin-top: 11px;
+    padding: 10px;
+    width: 230px;
+}
+
+#footer-widgets {
+    border: 15px solid #410503;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px;
+}
+
+
+#logo {
+    left: 10px;
+    max-width: 300px;
+    position: absolute;
+    top: 10px;
+}
+
+
+.clear {
+    clear: both;
+    height: 20px;
+}
+
+a.smallorange, a.bigorange {
+    background: linear-gradient(to bottom, #7f9a6c 0%, #5D714F 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border: 1px solid #7f9a6c !important;
+    color: #ffffff !important;
+}
+
+#page-top h2.title {
+    font-size: 48px;
+    text-transform: none;
+}
+
+.post h2.title {
+	font-size: 32px;
+	text-transform: none;
+}
+
+.wpcf7-form {
+	margin-top: 20px;
+}
+
+.fb_iframe_widget {
+    margin-bottom: 20px;
+}
+
+.rowz {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.column-left {
+    width: 260px;
+    float: left;
+}
+
+.column-right.oth-hide {
+    display: none;
+}
+
+.column-right.oth-hide.oth-show {
+    display: block;
+}
+
+input.form-control.oth {
+    width: 240px;
+}
+
+textarea.form-control {
+    width: 500px;
+}
+
+.button-success {
+	color: white;
+	font-size: 16px;
+	border: 1px solid #7f9a6c !important;
+	border-radius: 4px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+	background: linear-gradient(to bottom, #7f9a6c 0%, #5D714F 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+}
+
+.button-success:hover {
+	box-shadow: 1px 1px 4px rgba(0,0,0,0);
+	background: linear-gradient(to bottom, #9BB489 0%, #798D6B 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}

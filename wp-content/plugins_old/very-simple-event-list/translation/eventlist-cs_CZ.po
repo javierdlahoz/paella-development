@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Event List\n"
+"POT-Creation-Date: 2015-09-10 13:34+0200\n"
+"PO-Revision-Date: 2015-09-10 13:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vsel.php\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: vsel.php:44 vsel.php:56
+msgid "Events"
+msgstr "Události"
+
+#: vsel.php:45
+msgid "Event"
+msgstr "Událost"
+
+#: vsel.php:46
+msgid "Add New"
+msgstr "Přidat novou"
+
+#: vsel.php:47
+msgid "Add New Event"
+msgstr "Přidat novou událost"
+
+#: vsel.php:48
+msgid "Edit Event"
+msgstr "Upravit událost"
+
+#: vsel.php:49
+msgid "New Event"
+msgstr "Nová událost"
+
+#: vsel.php:50
+msgid "View Event"
+msgstr "Zobrazit událost"
+
+#: vsel.php:51
+msgid "Search Events"
+msgstr "Vyhledat události"
+
+#: vsel.php:52
+msgid "No events found"
+msgstr "Nebyly nalezeny žádné události"
+
+#: vsel.php:53
+msgid "No events found in Trash"
+msgstr "V koši nebyly nalezeny žádné události"
+
+#: vsel.php:74
+msgid "Event Info"
+msgstr "Informace o události"
+
+#: vsel.php:99 vsel.php:155
+msgid "Event Date"
+msgstr "Datum události"
+
+#: vsel.php:101 vsel.php:156
+msgid "Event Time"
+msgstr "Čas události"
+
+#: vsel.php:103 vsel.php:157
+msgid "Event Location"
+msgstr "Údaje o místě události"
+
+#: vsel.php:105
+msgid "Event URL"
+msgstr "URL adresa události"
+
+#: vsel_past_events_shortcode.php:47 vsel_shortcode.php:47
+#, php-format
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+#: vsel_past_events_shortcode.php:51 vsel_shortcode.php:51
+#, php-format
+msgid "Time: %s"
+msgstr "Čas: %s"
+
+#: vsel_past_events_shortcode.php:56 vsel_shortcode.php:56
+#, php-format
+msgid "Location: %s"
+msgstr "Místo: %s"
+
+#: vsel_past_events_shortcode.php:61 vsel_shortcode.php:61
+#, php-format
+msgid "More info: %s"
+msgstr "Další informace: %s"
+
+#: vsel_past_events_shortcode.php:61 vsel_shortcode.php:61
+msgid "click here"
+msgstr "klikněte sem"
+
+#: vsel_past_events_shortcode.php:76 vsel_shortcode.php:76
+msgid "&laquo; Next Events"
+msgstr "&laquo; Další události"
+
+#: vsel_past_events_shortcode.php:77 vsel_shortcode.php:77
+msgid "Previous Events &raquo;"
+msgstr "Předchozí události &raquo;"
+
+#: vsel_past_events_shortcode.php:84
+msgid "There are no past events."
+msgstr "Neexistují žádné minulé události."
+
+#: vsel_shortcode.php:84
+msgid "There are no upcoming events."
+msgstr "V tuto chvíli nejsou žádné nadcházející události."
+
+#. Plugin Name of the plugin/theme
+msgid "Very Simple Event List"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a very simple plugin to display a list of your events. Use shortcode "
+"[vsel] to display your events on a page. For more info please check readme "
+"file."
+msgstr ""
+"This is a very simple plugin to display a list of your events. Use shortcode "
+"[vsel] to display your events on a page. For more info please check readme "
+"file."
+
+#. Author of the plugin/theme
+msgid "Guido van der Leest"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.guidovanderleest.nl"
+msgstr ""

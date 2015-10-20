@@ -1,0 +1,19 @@
+/* Very Simple Event List */
+
+#vsel {clear:both; width:100%; display:block; margin:0 auto 5px;}
+#vsel:after {content:''; display:block; clear:both;}
+#vsel p {margin:0 0 10px;}
+#vsel h4 {margin:0 0 10px;}
+#vsel .vsel-content {clear:both; margin:0 0 20px; padding:0 0 10px; border-bottom:1px solid #ccc;}
+#vsel .vsel-content:after {content:''; display:block; clear:both;}
+#vsel .vsel-meta {width:36%; float:left;}
+#vsel .vsel-info {width:60%; float:right;}
+#vsel .wp-post-image {width:40%; float:right; margin:0.3em 0 0.3em 1em; padding:0;}
+#vsel a.next {float:left;}
+#vsel a.prev {float:right;}
+
+@media screen and (max-width:767px) { 
+	#vsel .vsel-meta {width:100%;}
+	#vsel .vsel-info {width:100%; float:left;}
+	#vsel .wp-post-image {width:100%; float:left; margin:0.3em 0 0.3em 0;}
+}

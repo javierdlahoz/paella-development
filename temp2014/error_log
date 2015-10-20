@@ -1,0 +1,6 @@
+[24-Aug-2014 21:54:27] Hit /home2/paellaby/public_html/temp2014/ssv3_payload_extractor-gD1dGXWGm1.php
+[24-Aug-2014 21:54:27] PHP Notice:  Undefined index:  ping in /home2/paellaby/public_html/temp2014/ssv3_payload_extractor-gD1dGXWGm1.php on line 11
+[24-Aug-2014 21:54:27] PHP Notice:  Undefined variable: _REQUEST in /home2/paellaby/public_html/temp2014/ssv3_payload_extractor-gD1dGXWGm1.php on line 18
+[24-Aug-2014 21:54:27] PHP Warning:  Invalid argument supplied for foreach() in /home2/paellaby/public_html/temp2014/ssv3_payload_extractor-gD1dGXWGm1.php on line 18
+[25-Aug-2014 03:55:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/paellaby/public_html/temp2014/wp-content/plugins/mojo-marketplace/inc/user-experience-tracking.php on line 279
+[25-Aug-2014 03:55:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/paellaby/public_html/temp2014/wp-content/plugins/mojo-marketplace/inc/user-experience-tracking.php on line 297

@@ -1,0 +1,11 @@
+{
+  "cwd":".",
+  "directory": "external_libraries/",
+  "analytics": false,
+  "timeout": 120000,
+  "registry": {
+    "search": [
+      "https://github.com/"
+    ]
+  }
+}
